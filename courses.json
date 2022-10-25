@@ -3,13 +3,17 @@
         "id": "1",
         "course_name": "Artificial Intelligence",
         "price": 39,
-        "img": "https://img.freepik.com/free-vector/wireframe-robot-ai-artificial-intelligence-robotic-hand-machine-learning-cyber-mind-domination-concept_127544-854.jpg?w=1380&t=st=1666629281~exp=1666629881~hmac=cac6954649cea3f4ef07412c55d428fdd27b4e7bb085a5924cba06ecd15771d9",
+        "enrolled": 458,
+        "rating":4.8,
+        "img": "https://img.freepik.com/free-photo/ai-nuclear-energy-background-future-innovation-disruptive-technology_53876-129783.jpg?w=1380&t=st=1666682962~exp=1666683562~hmac=d8fd72e21981f78867727f7db02ba442783630fe9c0c54d555a172d45c2200aa",
         "description": "In the simplest terms, AI which stands for artificial intelligence refers to systems or machines that mimic human intelligence to perform tasks and can iteratively improve themselves based on the information they collect."
     },
     {
         "id": "2",
         "course_name": "UI/UX Design",
         "price": 25,
+        "enrolled": 661,
+        "rating":4.7,
         "img": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149052117.jpg?w=1380&t=st=1666629402~exp=1666630002~hmac=95ec983704b5f046be0e984428e8f1dd70baf033b748811df3c072cfcc37292d",
         "description": "UX design is all about identifying and solving user problems; UI design is all about creating intuitive, aesthetically-pleasing, interactive interfaces. UX design usually comes first in the product development process, followed by UI."
     },
@@ -17,6 +21,8 @@
         "id": "3",
         "course_name": "Data Science",
         "price": 49,
+        "enrolled": 397,
+        "rating":4.5,
         "img": "https://img.freepik.com/free-photo/close-up-business-items_1098-1988.jpg?w=1380&t=st=1666629588~exp=1666630188~hmac=94d301ced405a1972079d855ccb4f2cbc818e6199f8405c44ea944980b3ea64e",
         "description":"Foundations. Data science is an interdisciplinary field focused on extracting knowledge from typically large data sets and applying the knowledge and insights from that data to solve problems in a wide range of application domains."
     },
@@ -24,6 +30,8 @@
         "id": "4",
         "course_name": "Android Development",
         "price": 29,
+        "enrolled": 789,
+        "rating":4.6,
         "img": "https://img.freepik.com/free-vector/seo-website-software-development-app-optimization-programming-web-designers-programmers-cartoon-characters-mobile-content-concept-illustration_335657-2586.jpg?w=1380&t=st=1666629720~exp=1666630320~hmac=8ad72cc0304080f574a7ae94990286f545a706e5518821a82ce6d8e5eae159f9",
         "description":"An android developer designs software and applications for Android devices and the Google Play Store. This software developer creates apps used on Android phones and tablets. They often work for large organizations or directly for an app development company."
     },
@@ -31,6 +39,8 @@
         "id": "5",
         "course_name": "Web Development",
         "price": 59,
+        "enrolled": 1277,
+        "rating":4.9,
         "img": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1380&t=st=1666629843~exp=1666630443~hmac=b704d108ad2c953a42630c4ab29145c51b4ea5b7c72c610cd486164685fb10c0",
         "description":"Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site."
     },
@@ -38,6 +48,8 @@
         "id": "6",
         "course_name": "Social Study",
         "price": 39,
+        "enrolled": 281,
+        "rating":4.5,
         "img": "https://img.freepik.com/free-photo/young-man-using-his-laptop-information-during-study-group_23-2149265677.jpg?w=1380&t=st=1666630005~exp=1666630605~hmac=b95a2acb406bfd514165712376ac8c38034953b6a389b08448a6f717acaa992f",
         "description":"The primary purpose of social studies is to help young people develop the ability to make informed and reasoned decisions for the public good as citizens of a culturally diverse, democratic society in an interdependent world. Social studies is taught in kindergarten through grade 12 in schools across the nation."
     }
